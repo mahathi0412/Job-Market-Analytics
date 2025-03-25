@@ -39,7 +39,8 @@ To solve this:
   - Number of openings per role
   - Which states hire which roles the most
 
-## 5. 📊 Power BI Dashboard ##
+## 5. 📊 Power BI Dashboard ##  
+Click here to view the dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmIyMTlmYWQtYzQ5MS00ODM4LThlNzctMjc1YzdlOGU1MmM0IiwidCI6ImYzYmIwZTQzLTJlMDEtNDEzZi1iYmVmLWUzNmU1ZTA2ODQyYiIsImMiOjZ9
 - Created a fully interactive Power BI dashboard that includes:
 - Bar Chart: Average salary for each role
 - Map: Top states hiring for the selected role (using dynamic slicers)
